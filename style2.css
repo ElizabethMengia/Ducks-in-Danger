@@ -103,19 +103,19 @@ body, html {
 }
 .bg {
   /* The image used */
-  background-image: url("../img/background-imagesArtboard-1.jpg");
+  background-image: url("img/background-imagesArtboard-1.jpg");
   top: 0;
 }
 
 .bg2 {
   /* The image used */
-  background-image: url("../img/background-imagesArtboard-1-copy.jpg");
+  background-image: url("img/background-imagesArtboard-1-copy.jpg");
   top: 100vh;
 }
 
 .bg3 {
   /* The image used */
-  background-image: url("../img/background-imagesArtboard-1-copy-2.jpg");
+  background-image: url("img/background-imagesArtboard-1-copy-2.jpg");
   top: 200vh;
 }
 
@@ -136,19 +136,19 @@ body, html {
 }
 .duck1 {
   top: 20vh;
-  background-image: url(../img/duck-flying.gif);
+  background-image: url(img/duck-flying.gif);
   animation-duration: 7s;
   animation-delay: 0;
 }
 .duck2 {
   top: 107vh;
-  background-image: url(../img/duck-grd-final.gif);
+  background-image: url(img/duck-grd-final.gif);
   animation-duration: 7s;
   animation-delay: 4s;
 }
 .duck3 {
   top: 200vh;
-  background-image: url(../img/duck-swim.gif);
+  background-image: url(img/duck-swim.gif);
   animation-duration: 7s;
   animation-delay: 7s;
 }
