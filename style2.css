@@ -103,19 +103,19 @@ body, html {
 }
 .bg {
   /* The image used */
-  background-image: url("../img/background imagesArtboard 1.jpg");
+  background-image: url("../img/background-imagesArtboard-1.jpg");
   top: 0;
 }
 
 .bg2 {
   /* The image used */
-  background-image: url("../img/background imagesArtboard 1 copy.jpg");
+  background-image: url("../img/background-imagesArtboard-1-copy.jpg");
   top: 100vh;
 }
 
 .bg3 {
   /* The image used */
-  background-image: url("../img/background imagesArtboard 1 copy 2.jpg");
+  background-image: url("../img/background-imagesArtboard-1-copy-2.jpg");
   top: 200vh;
 }
 
